@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KarunAnand
 - 👀 I’m interested in awesome UI design..(Flutter)
-- 🌱 I’m currently learning Flutter..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 💞️ i'm Searching for flutter development jobs.
